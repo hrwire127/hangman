@@ -1,2 +1,2 @@
-# deck-cards
+# hangman
 A simple word guesser app
